@@ -1,4 +1,4 @@
-import { drizzleConnect } from "drizzle-react";
+import { drizzleConnect } from "@wundr/drizzle-react";
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 
@@ -70,7 +70,7 @@ class ContractForm extends Component {
 
   handleInputChange(event) {
     const value =
-      event.target.type === 'checkbox'
+      event.target.type === "checkbox"
         ? event.target.checked
         : event.target.value;
     this.setState({ [event.target.name]: value });

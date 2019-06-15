@@ -8,6 +8,13 @@ We provide components that support the React 16.3+ context API and also the lega
 
 For 1.x.x this is how you import the different components:
 
+### React 16.8+ Hooked Components
+
+```
+import { hookedComponents } from "drizzle-react-components";
+const { AccountData, ContractData, ContractForm } = hookedComponents;
+```
+
 ### React 16.3+ Context Components
 
 ```
