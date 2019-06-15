@@ -1,6 +1,6 @@
 {
   "name": "@wundr/drizzle-react-components",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Put some Drizzle on your React components.",
   "main": "dist/drizzle-react-components.js",
   "scripts": {

@@ -93,7 +93,7 @@ This component wraps your entire app (but within the DrizzleProvider) and will s
 
 Refer to the test apps to learn more about how to use DRC.
 
-A test app targeting the React 16.3+ context API has been included at `./test-app`. And one targeting the legacy context API can be found at `test-app-legacy-context`.
+A test app targeting 16.8+ hook api has een included at `./test-app-hooks`. A test app targeting the React 16.3+ context API has been included at `./test-app`. And one targeting the legacy context API can be found at `./test-app-legacy-context`.
 
 ### Installation
 
